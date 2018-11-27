@@ -1,0 +1,2 @@
+var Obj = {foo: 'bar'};
+
